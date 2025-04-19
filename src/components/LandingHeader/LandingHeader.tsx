@@ -35,22 +35,22 @@ function LandingHeader() {
       >
         <ul className="flex flex-col md:flex-row items-center gap-6 p-4 md:p-0">
           <li className="w-full">
-            <Button variant="ghost" className="w-full md:w-auto">
+            <Button variant="underline" className="w-full md:w-auto">
               <HomeIcon /> Home
             </Button>
           </li>
           <li className="w-full">
-            <Button variant="ghost" className="w-full md:w-auto">
+            <Button variant="underline" className="w-full md:w-auto">
               <InfoIcon /> About
             </Button>
           </li>
           <li className="w-full">
-            <Button variant="ghost" className="w-full md:w-auto">
+            <Button variant="underline" className="w-full md:w-auto">
               <BriefcaseIcon /> Services
             </Button>
           </li>
           <li className="w-full">
-            <Button variant="ghost" className="w-full md:w-auto">
+            <Button variant="underline" className="w-full md:w-auto">
               <MailIcon /> Contact
             </Button>
           </li>
